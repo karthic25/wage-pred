@@ -1,4 +1,4 @@
-name: your-workflow-name
+name: wage-pred-test
 on: [push]
 jobs:
   run:
